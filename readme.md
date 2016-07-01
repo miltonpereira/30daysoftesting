@@ -10,7 +10,7 @@ Be sure to share your progress!(create links from the table below to the readme 
 #Test Challenges!
 *Complete in any order you like!*
 
-- [ ] BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30
+- [ V ] BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30
 - [ ] TAKE A PHOTO OF SOMETHING YOU ARE DOING AT WORK
 - [ ] LISTEN TO A TESTING PODCAST
 - [ ] SHARE A TESTING BLOG POST WITH A NON-TESTER
